@@ -1,6 +1,6 @@
 # Datathon Championships
 
-Welcome to the Datathon Championships website!
+This is Sarah Liaw, Shiqi Yang, Luyang Shang , Claire Tang
 
 ## About
 
